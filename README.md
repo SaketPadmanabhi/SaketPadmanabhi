@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SaketPadmanabhi
-- 👀 I’m interested in Data Engineering, Cloud, Web Development, Compettitive Coding.
+- 👀 I’m interested in Data Engineering, Cloud, Web Development, Competitive Coding.
 - 🌱 I’m currently learning AWS, DevOps, Web Dev, Coding.
 - 📫 How to reach me - Drop a mail on shpadmanabhi05@gmail.com.
 
